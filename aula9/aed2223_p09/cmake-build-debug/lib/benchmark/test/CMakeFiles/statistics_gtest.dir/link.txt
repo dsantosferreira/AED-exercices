@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing -g CMakeFiles/statistics_gtest.dir/statistics_gtest.cc.o -o statistics_gtest  ../src/libbenchmark.a ../../libgmock_maind.a -lrt ../../libgmockd.a ../../libgtestd.a 

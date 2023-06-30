@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing -g CMakeFiles/fixture_test.dir/fixture_test.cc.o -o fixture_test  ../src/libbenchmark_main.a ../src/libbenchmark.a -lrt 

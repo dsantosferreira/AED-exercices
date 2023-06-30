@@ -1,0 +1,13 @@
+# ninja log v5
+10245	10286	1663621639031385564	lib/libgmockd.a	2a6f19a5f5cb266e
+10286	10297	1663621639043385449	lib/libgmock_maind.a	13b115909b4cac6e
+1	6079	1663621634823425773	lib/googletest-master/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o	2c803100d8792929
+10245	10255	1663621639003385831	lib/libgtest_maind.a	8f907b4f3d27240
+2	3133	1663621631879453942	lib/googletest-master/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o	2b65f109c1d7cedd
+0	1279	1663693626159740939	CMakeFiles/aed2223_p01.dir/Tests/tests.cpp.o	4a1999831d0ec22a
+3	2361	1663621631107461333	lib/googletest-master/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	44175bb80ae45222
+849	1139	1663700658445299219	../Tests/aed2223_p01	aeb6178c2c03e71d
+0	2748	1663621631495457619	CMakeFiles/aed2223_p01.dir/main.cpp.o	5ad231e13f5a3e0
+10160	10244	1663621638991385945	lib/libgtestd.a	11d2e29388893688
+1	849	1663700658157301398	CMakeFiles/aed2223_p01.dir/Tests/funWithCycles.cpp.o	ddc5b0b7a24fac7
+2	10160	1663621638895386862	lib/googletest-master/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	b5492e8162fe1805

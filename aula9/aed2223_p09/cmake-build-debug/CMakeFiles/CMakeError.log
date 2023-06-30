@@ -1,0 +1,48 @@
+Performing C++ SOURCE FILE Test HAVE_CXX_FLAG_WSHORTEN_64_TO_32 failed with the following output:
+Change Dir: /home/dsferreira/dsantosferreira/programming/aed/aula9/aed2223_p09/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_8a4fc/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_8a4fc.dir/build.make CMakeFiles/cmTC_8a4fc.dir/build
+gmake[1]: Entering directory '/home/dsferreira/dsantosferreira/programming/aed/aula9/aed2223_p09/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_8a4fc.dir/src.cxx.o
+/usr/bin/c++ -DHAVE_CXX_FLAG_WSHORTEN_64_TO_32  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -pedantic  -pedantic-errors  -Wshorten-64-to-32 -fdiagnostics-color=always   -Wshorten-64-to-32 -o CMakeFiles/cmTC_8a4fc.dir/src.cxx.o -c /home/dsferreira/dsantosferreira/programming/aed/aula9/aed2223_p09/cmake-build-debug/CMakeFiles/CMakeTmp/src.cxx
+[01m[Kc++:[m[K [01;31m[Kerror: [m[Kunrecognized command-line option '[01m[K-Wshorten-64-to-32[m[K'
+[01m[Kc++:[m[K [01;31m[Kerror: [m[Kunrecognized command-line option '[01m[K-Wshorten-64-to-32[m[K'
+gmake[1]: *** [CMakeFiles/cmTC_8a4fc.dir/build.make:78: CMakeFiles/cmTC_8a4fc.dir/src.cxx.o] Error 1
+gmake[1]: Leaving directory '/home/dsferreira/dsantosferreira/programming/aed/aula9/aed2223_p09/cmake-build-debug/CMakeFiles/CMakeTmp'
+gmake: *** [Makefile:127: cmTC_8a4fc/fast] Error 2
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test HAVE_CXX_FLAG_WD654 failed with the following output:
+Change Dir: /home/dsferreira/dsantosferreira/programming/aed/aula9/aed2223_p09/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_f885e/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_f885e.dir/build.make CMakeFiles/cmTC_f885e.dir/build
+gmake[1]: Entering directory '/home/dsferreira/dsantosferreira/programming/aed/aula9/aed2223_p09/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_f885e.dir/src.cxx.o
+/usr/bin/c++ -DHAVE_CXX_FLAG_WD654  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing  -wd654 -fdiagnostics-color=always   -wd654 -o CMakeFiles/cmTC_f885e.dir/src.cxx.o -c /home/dsferreira/dsantosferreira/programming/aed/aula9/aed2223_p09/cmake-build-debug/CMakeFiles/CMakeTmp/src.cxx
+[01m[Kc++:[m[K [01;31m[Kerror: [m[Kunrecognized command-line option '[01m[K-wd654[m[K'
+[01m[Kc++:[m[K [01;31m[Kerror: [m[Kunrecognized command-line option '[01m[K-wd654[m[K'
+gmake[1]: *** [CMakeFiles/cmTC_f885e.dir/build.make:78: CMakeFiles/cmTC_f885e.dir/src.cxx.o] Error 1
+gmake[1]: Leaving directory '/home/dsferreira/dsantosferreira/programming/aed/aula9/aed2223_p09/cmake-build-debug/CMakeFiles/CMakeTmp'
+gmake: *** [Makefile:127: cmTC_f885e/fast] Error 2
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test HAVE_CXX_FLAG_WTHREAD_SAFETY failed with the following output:
+Change Dir: /home/dsferreira/dsantosferreira/programming/aed/aula9/aed2223_p09/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_cf251/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_cf251.dir/build.make CMakeFiles/cmTC_cf251.dir/build
+gmake[1]: Entering directory '/home/dsferreira/dsantosferreira/programming/aed/aula9/aed2223_p09/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_cf251.dir/src.cxx.o
+/usr/bin/c++ -DHAVE_CXX_FLAG_WTHREAD_SAFETY  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing  -Wthread-safety -fdiagnostics-color=always   -Wthread-safety -o CMakeFiles/cmTC_cf251.dir/src.cxx.o -c /home/dsferreira/dsantosferreira/programming/aed/aula9/aed2223_p09/cmake-build-debug/CMakeFiles/CMakeTmp/src.cxx
+[01m[Kc++:[m[K [01;31m[Kerror: [m[Kunrecognized command-line option '[01m[K-Wthread-safety[m[K'
+[01m[Kc++:[m[K [01;31m[Kerror: [m[Kunrecognized command-line option '[01m[K-Wthread-safety[m[K'
+gmake[1]: *** [CMakeFiles/cmTC_cf251.dir/build.make:78: CMakeFiles/cmTC_cf251.dir/src.cxx.o] Error 1
+gmake[1]: Leaving directory '/home/dsferreira/dsantosferreira/programming/aed/aula9/aed2223_p09/cmake-build-debug/CMakeFiles/CMakeTmp'
+gmake: *** [Makefile:127: cmTC_cf251/fast] Error 2
+
+
+Source file was:
+int main() { return 0; }

@@ -1,0 +1,11 @@
+# ninja log v5
+1	1342	1672100601852015780	CMakeFiles/aed2223_p08.dir/main.cpp.o	4c98b8c0f2c1b2da
+1	1563	1672100602076015784	CMakeFiles/aed2223_p08.dir/Tests/tests.cpp.o	496777e3430ef5fa
+4474	4479	1672100604992015842	lib/libgtest_maind.a	eaf5d4a427c9edda
+1	672	1672101387516031299	CMakeFiles/aed2223_p08.dir/Tests/packagingMachine.cpp.o	6cfd219dad5ea883
+2	541	1672100601052015764	CMakeFiles/aed2223_p08.dir/Tests/funPQProblem.cpp.o	f7b9e0b9bb11cad
+2	1354	1672100601864015780	lib/googletest-master/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	94a5388b5b417091
+2	441	1672100600952015762	CMakeFiles/aed2223_p08.dir/Tests/box.cpp.o	1fce5444b5dc5cca
+4435	4474	1672100604988015842	lib/libgtestd.a	19f3ebaa5cc4568f
+673	883	1672101387724031303	aed2223_p08	9d9786e584df4cdf
+2	4435	1672100604944015841	lib/googletest-master/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	387b95c5c611ba22

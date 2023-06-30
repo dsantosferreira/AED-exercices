@@ -1,0 +1,85 @@
+1.
+	Big-O		Omega		Teta	
+a)	  V		  F		 F
+b)	  V		  V		 V
+c)	  F		  V		 F
+d)	  V		  V		 V		
+e)	  V		  V		 V
+f)	  V		  F		 F
+g)	  V		  V		 V
+h)	  F		  V		 F
+
+2.
+
+a)
+
+n+99+88+...+2+1 = soma dos primeiros n números. Fórmula para soma dos números a partir de 1: (af + 1) * n/2 sendo:
+n -> nº de elementos
+af -> elemento final = n
+Logo: n*(n+1)/2 = n²/2 + n/2. Logo = O(n²)
+
+b)
+
+Cada for executa 1 atribuição, n+1 comparações e 2n incrementos
+Logo são exutadas 3n + 6 instruções que corresponde a O(n)
+
+c)
+
+Vamos executar o 2º ciclo n vezes
+Vamos executar o 3º ciclo n/2 vezes
+O terceiro ciclo tem 10 iterações
+n * n/2 * 10 = n²*10/2 que pertence a O(n²)
+
+d)
+
+Vamos executar o 2º ciclo n-4 vezes
+log(n) iterações no de dentro
+
+O(n*log(n))
+
+e)
+
+O(n)
+
+f)
+
+log(n)
+
+3.
+
+a)
+
+ratios: n1/n2 = 1; n3/n2 = 1
+n1: 100ms
+n3: 100ms
+
+b)
+
+ratios: n1/n2 = 0.5; n3/n2 = 2
+n1: 50ms
+n3: 200ms
+
+c)
+
+ratios: n1/n2 = 0.25; n3/n2 = 4
+n1: 25ms
+n3: 400ms
+
+d)
+
+ratios: n1/n2 = 0.125; n3/n2 = 8
+n1: 12.5ms
+n3: 800ms
+
+e)
+
+ratios: n1/n2 = 2^(-10); n3/n2 = 2^(20)
+n1: 2^(-10) * 100
+n3: 2^(20) * 100
+
+7.
+
+a) n log(n)
+b) log(n)
+c) log(n)
+d) n

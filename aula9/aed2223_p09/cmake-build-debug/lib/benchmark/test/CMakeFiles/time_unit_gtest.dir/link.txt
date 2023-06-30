@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing -g CMakeFiles/time_unit_gtest.dir/time_unit_gtest.cc.o -o time_unit_gtest  ../src/libbenchmark.a ../../libgmock_maind.a -lrt ../../libgmockd.a ../../libgtestd.a 

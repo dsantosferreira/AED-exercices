@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="aed2223_p05" targetName="spec_arg_verbosity_test" />
+      <config projectName="aed2223_p05" targetName="gtest" />
+      <config projectName="aed2223_p05" targetName="user_counters_tabular_test" />
+      <config projectName="aed2223_p05" targetName="gmock" />
+      <config projectName="aed2223_p05" targetName="donotoptimize_test" />
+      <config projectName="aed2223_p05" targetName="benchmark_test" />
+      <config projectName="aed2223_p05" targetName="statistics_gtest" />
+      <config projectName="aed2223_p05" targetName="output_test_helper" />
+      <config projectName="aed2223_p05" targetName="memory_manager_test" />
+      <config projectName="aed2223_p05" targetName="fixture_test" />
+      <config projectName="aed2223_p05" targetName="benchmark_main" />
+      <config projectName="aed2223_p05" targetName="templated_fixture_test" />
+      <config projectName="aed2223_p05" targetName="user_counters_test" />
+      <config projectName="aed2223_p05" targetName="map_test" />
+      <config projectName="aed2223_p05" targetName="string_util_gtest" />
+      <config projectName="aed2223_p05" targetName="filter_test" />
+      <config projectName="aed2223_p05" targetName="options_test" />
+      <config projectName="aed2223_p05" targetName="gtest_main" />
+      <config projectName="aed2223_p05" targetName="repetitions_test" />
+      <config projectName="aed2223_p05" targetName="benchmark_name_gtest" />
+      <config projectName="aed2223_p05" targetName="reporter_output_test" />
+      <config projectName="aed2223_p05" targetName="cxx03_test" />
+      <config projectName="aed2223_p05" targetName="register_benchmark_test" />
+      <config projectName="aed2223_p05" targetName="time_unit_gtest" />
+      <config projectName="aed2223_p05" targetName="diagnostics_test" />
+      <config projectName="aed2223_p05" targetName="multiple_ranges_test" />
+      <config projectName="aed2223_p05" targetName="basic_test" />
+      <config projectName="aed2223_p05" targetName="spec_arg_test" />
+      <config projectName="aed2223_p05" targetName="gmock_main" />
+      <config projectName="aed2223_p05" targetName="internal_threading_test" />
+      <config projectName="aed2223_p05" targetName="benchmark" />
+      <config projectName="aed2223_p05" targetName="display_aggregates_only_test" />
+      <config projectName="aed2223_p05" targetName="complexity_test" />
+      <config projectName="aed2223_p05" targetName="benchmark_random_interleaving_gtest" />
+      <config projectName="aed2223_p05" targetName="report_aggregates_only_test" />
+      <config projectName="aed2223_p05" targetName="perf_counters_test" />
+      <config projectName="aed2223_p05" targetName="user_counters_thousands_test" />
+      <config projectName="aed2223_p05" targetName="benchmark_gtest" />
+      <config projectName="aed2223_p05" targetName="link_main_test" />
+      <config projectName="aed2223_p05" targetName="perf_counters_gtest" />
+      <config projectName="aed2223_p05" targetName="aed2223_p05" />
+      <config projectName="aed2223_p05" targetName="benchmark_setup_teardown_test" />
+      <config projectName="aed2223_p05" targetName="skip_with_error_test" />
+      <config projectName="aed2223_p05" targetName="args_product_test" />
+      <config projectName="aed2223_p05" targetName="commandlineflags_gtest" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="315041ec-729e-45bd-b403-a0d09094c82d" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="2.4" />
+  </component>
+  <component name="ProjectId" id="2Hd1mIqI1iH7Sgqd97zKXRHd0Ec" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="RunManager" selected="Google Test.test.rearrange">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aed2223_p05" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="aed2223_p05" TARGET_NAME="aed2223_p05" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="aed2223_p05" RUN_TARGET_NAME="aed2223_p05" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="benchmark_gtest" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="aed2223_p05" TARGET_NAME="benchmark_gtest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="aed2223_p05" RUN_TARGET_NAME="benchmark_gtest" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="benchmark_name_gtest" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="aed2223_p05" TARGET_NAME="benchmark_name_gtest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="aed2223_p05" RUN_TARGET_NAME="benchmark_name_gtest" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="benchmark_random_interleaving_gtest" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="aed2223_p05" TARGET_NAME="benchmark_random_interleaving_gtest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="aed2223_p05" RUN_TARGET_NAME="benchmark_random_interleaving_gtest" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="commandlineflags_gtest" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="aed2223_p05" TARGET_NAME="commandlineflags_gtest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="aed2223_p05" RUN_TARGET_NAME="commandlineflags_gtest" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="perf_counters_gtest" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="aed2223_p05" TARGET_NAME="perf_counters_gtest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="aed2223_p05" RUN_TARGET_NAME="perf_counters_gtest" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="statistics_gtest" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="aed2223_p05" TARGET_NAME="statistics_gtest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="aed2223_p05" RUN_TARGET_NAME="statistics_gtest" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="string_util_gtest" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="aed2223_p05" TARGET_NAME="string_util_gtest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="aed2223_p05" RUN_TARGET_NAME="string_util_gtest" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.loseGame" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="aed2223_p05" TARGET_NAME="aed2223_p05" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="aed2223_p05" RUN_TARGET_NAME="aed2223_p05" TEST_CLASS="test" TEST_METHOD="loseGame" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.rearrange" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="aed2223_p05" TARGET_NAME="aed2223_p05" RUN_TARGET_PROJECT_NAME="aed2223_p05" RUN_TARGET_NAME="aed2223_p05" TEST_CLASS="test" TEST_METHOD="rearrange" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="time_unit_gtest" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="aed2223_p05" TARGET_NAME="time_unit_gtest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="aed2223_p05" RUN_TARGET_NAME="time_unit_gtest" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="args_product_test" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="aed2223_p05" TARGET_NAME="args_product_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="aed2223_p05" RUN_TARGET_NAME="args_product_test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="basic_test" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="aed2223_p05" TARGET_NAME="basic_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="aed2223_p05" RUN_TARGET_NAME="basic_test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="benchmark" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="aed2223_p05" TARGET_NAME="benchmark" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="benchmark_main" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="aed2223_p05" TARGET_NAME="benchmark_main" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="benchmark_setup_teardown_test" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="aed2223_p05" TARGET_NAME="benchmark_setup_teardown_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="aed2223_p05" RUN_TARGET_NAME="benchmark_setup_teardown_test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="benchmark_test" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="aed2223_p05" TARGET_NAME="benchmark_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="aed2223_p05" RUN_TARGET_NAME="benchmark_test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="complexity_test" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="aed2223_p05" TARGET_NAME="complexity_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="aed2223_p05" RUN_TARGET_NAME="complexity_test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cxx03_test" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="aed2223_p05" TARGET_NAME="cxx03_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="aed2223_p05" RUN_TARGET_NAME="cxx03_test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="diagnostics_test" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="aed2223_p05" TARGET_NAME="diagnostics_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="aed2223_p05" RUN_TARGET_NAME="diagnostics_test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="display_aggregates_only_test" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="aed2223_p05" TARGET_NAME="display_aggregates_only_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="aed2223_p05" RUN_TARGET_NAME="display_aggregates_only_test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="donotoptimize_test" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="aed2223_p05" TARGET_NAME="donotoptimize_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="aed2223_p05" RUN_TARGET_NAME="donotoptimize_test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="filter_test" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="aed2223_p05" TARGET_NAME="filter_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="aed2223_p05" RUN_TARGET_NAME="filter_test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fixture_test" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="aed2223_p05" TARGET_NAME="fixture_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="aed2223_p05" RUN_TARGET_NAME="fixture_test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmock" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="aed2223_p05" TARGET_NAME="gmock" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmock_main" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="aed2223_p05" TARGET_NAME="gmock_main" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="aed2223_p05" TARGET_NAME="gtest" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest_main" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="aed2223_p05" TARGET_NAME="gtest_main" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="internal_threading_test" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="aed2223_p05" TARGET_NAME="internal_threading_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="aed2223_p05" RUN_TARGET_NAME="internal_threading_test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="link_main_test" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="aed2223_p05" TARGET_NAME="link_main_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="aed2223_p05" RUN_TARGET_NAME="link_main_test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="map_test" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="aed2223_p05" TARGET_NAME="map_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="aed2223_p05" RUN_TARGET_NAME="map_test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="memory_manager_test" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="aed2223_p05" TARGET_NAME="memory_manager_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="aed2223_p05" RUN_TARGET_NAME="memory_manager_test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="multiple_ranges_test" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="aed2223_p05" TARGET_NAME="multiple_ranges_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="aed2223_p05" RUN_TARGET_NAME="multiple_ranges_test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="options_test" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="aed2223_p05" TARGET_NAME="options_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="aed2223_p05" RUN_TARGET_NAME="options_test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="output_test_helper" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="aed2223_p05" TARGET_NAME="output_test_helper" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="perf_counters_test" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="aed2223_p05" TARGET_NAME="perf_counters_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="aed2223_p05" RUN_TARGET_NAME="perf_counters_test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="register_benchmark_test" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="aed2223_p05" TARGET_NAME="register_benchmark_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="aed2223_p05" RUN_TARGET_NAME="register_benchmark_test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="repetitions_test" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="aed2223_p05" TARGET_NAME="repetitions_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="aed2223_p05" RUN_TARGET_NAME="repetitions_test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="report_aggregates_only_test" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="aed2223_p05" TARGET_NAME="report_aggregates_only_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="aed2223_p05" RUN_TARGET_NAME="report_aggregates_only_test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reporter_output_test" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="aed2223_p05" TARGET_NAME="reporter_output_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="aed2223_p05" RUN_TARGET_NAME="reporter_output_test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="skip_with_error_test" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="aed2223_p05" TARGET_NAME="skip_with_error_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="aed2223_p05" RUN_TARGET_NAME="skip_with_error_test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="spec_arg_test" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="aed2223_p05" TARGET_NAME="spec_arg_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="aed2223_p05" RUN_TARGET_NAME="spec_arg_test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="spec_arg_verbosity_test" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="aed2223_p05" TARGET_NAME="spec_arg_verbosity_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="aed2223_p05" RUN_TARGET_NAME="spec_arg_verbosity_test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="templated_fixture_test" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="aed2223_p05" TARGET_NAME="templated_fixture_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="aed2223_p05" RUN_TARGET_NAME="templated_fixture_test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="user_counters_tabular_test" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="aed2223_p05" TARGET_NAME="user_counters_tabular_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="aed2223_p05" RUN_TARGET_NAME="user_counters_tabular_test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="user_counters_test" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="aed2223_p05" TARGET_NAME="user_counters_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="aed2223_p05" RUN_TARGET_NAME="user_counters_test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="user_counters_thousands_test" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="aed2223_p05" TARGET_NAME="user_counters_thousands_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="aed2223_p05" RUN_TARGET_NAME="user_counters_thousands_test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.benchmark" />
+      <item itemvalue="CMake Application.benchmark_main" />
+      <item itemvalue="CMake Application.args_product_test" />
+      <item itemvalue="CMake Application.basic_test" />
+      <item itemvalue="CMake Application.benchmark_setup_teardown_test" />
+      <item itemvalue="CMake Application.benchmark_test" />
+      <item itemvalue="CMake Application.complexity_test" />
+      <item itemvalue="CMake Application.cxx03_test" />
+      <item itemvalue="CMake Application.diagnostics_test" />
+      <item itemvalue="CMake Application.display_aggregates_only_test" />
+      <item itemvalue="CMake Application.donotoptimize_test" />
+      <item itemvalue="CMake Application.filter_test" />
+      <item itemvalue="CMake Application.fixture_test" />
+      <item itemvalue="CMake Application.internal_threading_test" />
+      <item itemvalue="CMake Application.link_main_test" />
+      <item itemvalue="CMake Application.map_test" />
+      <item itemvalue="CMake Application.memory_manager_test" />
+      <item itemvalue="CMake Application.multiple_ranges_test" />
+      <item itemvalue="CMake Application.options_test" />
+      <item itemvalue="CMake Application.output_test_helper" />
+      <item itemvalue="CMake Application.perf_counters_test" />
+      <item itemvalue="CMake Application.register_benchmark_test" />
+      <item itemvalue="CMake Application.repetitions_test" />
+      <item itemvalue="CMake Application.report_aggregates_only_test" />
+      <item itemvalue="CMake Application.reporter_output_test" />
+      <item itemvalue="CMake Application.skip_with_error_test" />
+      <item itemvalue="CMake Application.spec_arg_test" />
+      <item itemvalue="CMake Application.spec_arg_verbosity_test" />
+      <item itemvalue="CMake Application.templated_fixture_test" />
+      <item itemvalue="CMake Application.user_counters_tabular_test" />
+      <item itemvalue="CMake Application.user_counters_test" />
+      <item itemvalue="CMake Application.user_counters_thousands_test" />
+      <item itemvalue="CMake Application.gmock" />
+      <item itemvalue="CMake Application.gmock_main" />
+      <item itemvalue="CMake Application.gtest" />
+      <item itemvalue="CMake Application.gtest_main" />
+      <item itemvalue="Google Test.aed2223_p05" />
+      <item itemvalue="Google Test.benchmark_gtest" />
+      <item itemvalue="Google Test.benchmark_name_gtest" />
+      <item itemvalue="Google Test.benchmark_random_interleaving_gtest" />
+      <item itemvalue="Google Test.commandlineflags_gtest" />
+      <item itemvalue="Google Test.perf_counters_gtest" />
+      <item itemvalue="Google Test.statistics_gtest" />
+      <item itemvalue="Google Test.string_util_gtest" />
+      <item itemvalue="Google Test.time_unit_gtest" />
+      <item itemvalue="Google Test.test.loseGame" />
+      <item itemvalue="Google Test.test.rearrange" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Google Test.test.rearrange" />
+        <item itemvalue="Google Test.test.loseGame" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="315041ec-729e-45bd-b403-a0d09094c82d" name="Changes" comment="" />
+      <created>1668600303101</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668600303101</updated>
+      <workItem from="1668600304195" duration="1902000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
